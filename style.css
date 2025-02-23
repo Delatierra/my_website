@@ -156,6 +156,7 @@ section{
 
 .section-container {
     display: flex;
+    text-align: center;
 }
 
 /* PROFILE SECTION*/

@@ -156,7 +156,6 @@ section{
 
 .section-container {
     display: flex;
-    text-align: center;
 }
 
 /* PROFILE SECTION*/
@@ -172,8 +171,9 @@ section{
 .section__pic-container{
     display: flex;
     height: 400px;
-    width: 400px;
+    width: auto;
     margin: auto 0;
+    text-align: center;
 }
 
 .section__text {

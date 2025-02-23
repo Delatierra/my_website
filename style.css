@@ -156,6 +156,7 @@ section{
 
 .section-container {
     display: flex;
+    position: relative;
 }
 
 /* PROFILE SECTION*/
@@ -170,10 +171,14 @@ section{
 
 .section__pic-container{
     display: flex;
-    height: 400px;
     width: auto;
     margin: auto 0;
     text-align: center;
+    width: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .section__text {

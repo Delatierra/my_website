@@ -169,8 +169,8 @@ section{
 }
 
 .section__pic-container{
-    width: auto;
-    height: auto;
+    height: 400px;
+    width: 400px;
     margin: auto 0;
     text-align: center;
     position: absolute;

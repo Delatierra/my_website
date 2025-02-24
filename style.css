@@ -172,7 +172,8 @@ section{
     display: flex;
     height: 400px;
     width: 400px;
-    margin: auto 0;
+    margin: auto auto;
+    text-align: justify;
 }
 
 .section__text {

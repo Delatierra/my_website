@@ -285,6 +285,8 @@ section{
 
 .about-pic{
     border-radius: 2rem;
+    align-self: auto;
+    
 }
 
 .arrow{
